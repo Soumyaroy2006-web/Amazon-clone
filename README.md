@@ -1,3 +1,3 @@
 # Amazon-clone
-I want to worn in Amazon-clone
+I want to make a Amazon-clone
 Author-Soumya Roy
